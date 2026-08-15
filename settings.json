@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ThunderSMP-ODYe.aternos.me",
-    "port": 11131,
+    "ip": "thunder-smp.campfirehosting.com",
+    "port": 35995,
     "version": "1.21.1"
   },
   "position": {
